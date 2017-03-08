@@ -8,6 +8,7 @@ public class suasage : MonoBehaviour {
 	void Start () {
 		print ("haha");
 		print ("hsdghdddddaha");
+		print ("hsdghdddddahsdfgsfhsfhfsha");
 	}
 	
 	// Update is called once per frame
